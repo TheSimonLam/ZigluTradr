@@ -6,9 +6,9 @@ Built in Node v14.16.1 LTS using Create React App + React Context API
 
 To run the project, type `npm start`
 
-<img src="./src/assets/demo.png">
+<img src="https://github.com/TheSimonLam/ZigluTradr/blob/master/src/assets/demo.PNG?raw=true"/>
 
-## Afterthoughts
+### Afterthoughts
 
 The test cases I'd write for this would be TDD.
 I would use Jest and Enzyme to test React Components for their expected outputs/behaviors. Enzyme allows shallow and deep rendering of a React component with state and props whereas react-testing-library tests via. DOM giving us less control.
